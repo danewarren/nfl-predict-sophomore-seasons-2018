@@ -8,3 +8,4 @@ An algorithm to predict the sophomore seasons of all second year running backs i
 ![alt text](/images/Algorithm_4.png)  
 ![alt text](/images/Algorithm_5.png)  
 ![alt text](/images/Algorithm_6.png)  
+![alt text](/images/Algorithm_7.png)
