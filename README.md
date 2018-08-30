@@ -90,6 +90,9 @@ Projections for every sophomore running back who touched the ball at least once 
 #### Joe Mixon  
 ![alt text](/images/Joe_Mixon.png)  
 
+#### Leonard Fournette  
+![alt text](/images/Leonard_Fournette.png)  
+
 #### Kareem Hunt  
 ![alt text](/images/Kareem_Hunt.png)  
 
@@ -110,6 +113,7 @@ Due to the training data using running backs with at least 100 touches in both t
 
 ## Projection Rankings  
 18.688304 - Dalvin Cook: 85/100 touches  
+17.881366 - Leonard Fournette  
 17.664375 - Kareem Hunt  
 16.823333 - Alvin Kamara  
 15.338788 - Chris Carson: 56/100 touches  

@@ -68,6 +68,11 @@ Projected: 17.664375
 Floor: 13.701559
 Ceiling: 22.773332
 
+Leonard Fournette
+Projected: 17.881366
+Floor: 13.869871
+Ceiling: 23.053082
+
 Marlon Mack
 Projected: 9.600000
 Floor: 7.446341
@@ -87,4 +92,3 @@ Wayne Gallman
 Projected: 9.607865
 Floor: 7.452442
 Ceiling: 12.386688
-
