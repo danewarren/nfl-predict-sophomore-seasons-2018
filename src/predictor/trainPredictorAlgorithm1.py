@@ -201,6 +201,6 @@ def main():
     altKRating[maxK9.keys()[0]] = kRatings[maxK9.keys()[0]]
     altKRating[maxK7.keys()[0]] = kRatings[maxK7.keys()[0]]
     print(altKRating)
-    
+
 if __name__ == "__main__":
     main()
