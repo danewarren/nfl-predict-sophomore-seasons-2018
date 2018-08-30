@@ -1,0 +1,90 @@
+Aaron Jones: 90/100 touches
+Projected: 11.009945
+Floor: 8.539980
+Ceiling: 14.194282
+
+Alvin Kamara
+Projected: 16.823333
+Floor: 13.049196
+Ceiling: 21.689041
+
+Brian Hill: 13/100 touches
+Projected: 8.668156
+Floor: 6.723547
+Ceiling: 11.175193
+
+Chris Carson: 56/100 touches
+Projected: 15.338788
+Floor: 11.897693
+Ceiling: 19.775130
+
+Christian McCaffrey
+Projected: 14.401863
+Floor: 11.170957
+Ceiling: 18.567224
+
+Dalvin Cook: 85/100 touches
+Projected: 18.688304
+Floor: 14.495780
+Ceiling: 24.093405
+
+De'Angelo Henderson: 9/100 touches
+Projected: 8.942169
+Floor: 6.936087
+Ceiling: 11.528456
+
+Devante Mays: 7/100 touches
+Projected: 8.825806
+Floor: 6.845830
+Ceiling: 11.378439
+
+D'Onta Foreman: 84/100 touches
+Projected: 9.929193
+Floor: 7.701683
+Ceiling: 12.800951
+
+Elijah McGuire
+Projected: 8.385556
+Floor: 6.504345
+Ceiling: 10.810857
+
+Jamaal Williams
+Projected: 11.251977
+Floor: 8.727715
+Ceiling: 14.506316
+
+James Conner: 32/100 touches
+Projected: 8.825806
+Floor: 6.845830
+Ceiling: 11.378439
+
+Joe Mixon
+Projected: 10.542405
+Floor: 8.177328
+Ceiling: 13.591519
+
+Kareem Hunt
+Projected: 17.664375
+Floor: 13.701559
+Ceiling: 22.773332
+
+Marlon Mack
+Projected: 9.600000
+Floor: 7.446341
+Ceiling: 12.376548
+
+Samaje Perine
+Projected: 11.381503
+Floor: 8.828183
+Ceiling: 14.673304
+
+Tarik Cohen
+Projected: 10.414620
+Floor: 8.078210
+Ceiling: 13.426775
+
+Wayne Gallman
+Projected: 9.607865
+Floor: 7.452442
+Ceiling: 12.386688
+
